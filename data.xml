@@ -1,0 +1,14 @@
+﻿<data>
+  <entry>
+    <name>Jackson</name>
+    <firstname>Peter</firstname>
+    <street>7477 Peters Dr</street>
+    <city>Charlotte</city>
+  </entry>
+  <entry>
+    <name>Petersen</name>
+    <firstname>Jack</firstname>
+    <street>7477 Jacks Ave</street>
+    <city>Charlotte</city>
+  </entry>
+</data>
